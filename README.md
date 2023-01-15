@@ -1,7 +1,18 @@
 - Hi, I’m @Yash-chotaliya
 - I’m interested in android development.
 - I'm currently learning android development using java..
-- 📫 LinkedIn profile : https://www.linkedin.com/in/yash-chotaliya-0228b922b/
+
+-----> SOCIAL PROFILES <-----
+LEETCODE :- https://leetcode.com/yash_1024/
+LINKEDIN :- https://www.linkedin.com/in/yash-chotaliya-0228b922b/
+
+
+
+-----> PROGRAMMING LANGUAGES <-----
+-PYTHON
+-JAVA
+-C
+
 
 
 
