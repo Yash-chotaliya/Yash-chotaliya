@@ -7,6 +7,7 @@
 
 - LEETCODE :- https://leetcode.com/yash_1024/
 - LINKEDIN :- https://www.linkedin.com/in/yash-chotaliya-0228b922b/
+- GFG :- https://auth.geeksforgeeks.org/user/yash_1024
 
 
 
