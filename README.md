@@ -1,5 +1,5 @@
 - I’m interested in android development.
-- I'm currently learning android development using java.
+- I'm currently learning android development using kotlin.
 - DSA Enthusiast .
 
 
