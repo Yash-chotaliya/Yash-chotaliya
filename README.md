@@ -13,5 +13,5 @@
 
 -----> PROGRAMMING LANGUAGES <-----
 
-- PYTHON
+- KOTLIN
 - JAVA
