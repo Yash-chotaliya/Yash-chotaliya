@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in android development.<br>I'm currently learning android development using kotlin.<br>DSA Enthusiast .
+Android developer...
 
 
 ## 🌐 Socials:
