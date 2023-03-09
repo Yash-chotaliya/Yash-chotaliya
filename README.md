@@ -1,6 +1,7 @@
 # 💫 About Me:
-Android developer...
-Currently learning wordpress..
+- Android developer...
+- 
+- Currently learning wordpress..
 
 
 ## 🌐 Socials:
