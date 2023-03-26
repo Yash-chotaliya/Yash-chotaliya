@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Android developer .
-- Data Science Loading.........
+- Android developer ...
 
 
 
