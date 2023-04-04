@@ -2,6 +2,9 @@
 Hi there! I'm an Android developer, and my job is to create awesome applications for Android devices. I work with programming languages such as Java or Kotlin, and I use Android Studio, the primary development environment for Android app development.<br>As an Android developer, I keep myself up to date with the latest trends and technologies in the field, and I constantly seek to improve my skills and knowledge.
 
 
+Data Science Loading.....
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-chotaliya-0228b922b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21403636) 
 
